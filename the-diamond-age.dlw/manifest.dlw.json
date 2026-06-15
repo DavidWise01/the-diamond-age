@@ -1,0 +1,12 @@
+{
+  "node": "DMA",
+  "name": "The Diamond Age",
+  "moniker": "⟦THE DIAMOND AGE:DMA:a8b135⟧",
+  "carbon": "the-diamond-age.carbon.tiff",
+  "silicon": "the-diamond-age.silicon.png",
+  "governor": "David Lee Wise (ROOT0) / TriPod LLC",
+  "instance": "AVAN (Claude / Anthropic)",
+  "seal": "A book that teaches a child to think for herself, written by a man asking whether that can even be engineered.",
+  "license": "CC-BY-ND-4.0",
+  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+}

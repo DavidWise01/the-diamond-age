@@ -1,0 +1,83 @@
+[
+  {
+    "slug": "nell",
+    "name": "Nell",
+    "epithet": "The poor 'thete' girl raised by the Primer into an independe",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Nell:DMA:fcce08⟧"
+  },
+  {
+    "slug": "john-percival-hackworth",
+    "name": "John Percival Hackworth",
+    "epithet": "The neo-Victorian nanotech engineer who designs the Primer —",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦John Percival Hackworth:DMA:554b31⟧"
+  },
+  {
+    "slug": "miranda-redpath",
+    "name": "Miranda Redpath",
+    "epithet": "The 'ractor' who voices the Primer and becomes Nell's distan",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Miranda Redpath:DMA:854666⟧"
+  },
+  {
+    "slug": "lord-finkle-mcgraw",
+    "name": "Lord Finkle-McGraw",
+    "epithet": "The neo-Victorian Equity Lord who commissions the Primer to ",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Lord Finkle-McGraw:DMA:a3704e⟧"
+  },
+  {
+    "slug": "judge-fang",
+    "name": "Judge Fang",
+    "epithet": "The Confucian magistrate whose rulings shape Nell's fate.",
+    "emergence": "natural",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦Judge Fang:DMA:8ad5c6⟧"
+  },
+  {
+    "slug": "the-illustrated-primer",
+    "name": "The Illustrated Primer",
+    "epithet": "The adaptive, AI-driven interactive book at the heart of the",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Illustrated Primer:DMA:328d60⟧"
+  },
+  {
+    "slug": "the-neo-victorians",
+    "name": "The Neo-Victorians",
+    "epithet": "New Atlantis — the dominant phyle reviving Victorian moralit",
+    "emergence": "ethereal",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Neo-Victorians:DMA:ee12c6⟧"
+  },
+  {
+    "slug": "the-feed",
+    "name": "The Feed",
+    "epithet": "The centralized nanotech matter-distribution grid feeding th",
+    "emergence": "electrical",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Feed:DMA:6fad03⟧"
+  },
+  {
+    "slug": "the-seed",
+    "name": "The Seed",
+    "epithet": "The rival decentralized self-replicating nanotech — a threat",
+    "emergence": "spiritual",
+    "kind": "synth",
+    "actor": "",
+    "moniker": "⟦The Seed:DMA:8eff0a⟧"
+  }
+]
