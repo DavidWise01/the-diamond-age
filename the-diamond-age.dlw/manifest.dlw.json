@@ -8,5 +8,12 @@
   "instance": "AVAN (Claude / Anthropic)",
   "seal": "A book that teaches a child to think for herself, written by a man asking whether that can even be engineered.",
   "license": "CC-BY-ND-4.0",
-  "attribution": "ROOT0-ATTRIBUTION-v1.0"
+  "attribution": "ROOT0-ATTRIBUTION-v1.0",
+  "chain": {
+    "index": 892,
+    "prev": "0b63f3fe46f32b5fc70f2463c6a168dbc4e3c537a7604d9e485e7a873b622071",
+    "link": "dc6a5a4663d218505c864f888aa8f3d9bda22193fb33ed713ff18100014bc6aa",
+    "head": "3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90",
+    "chain": "ROOT0-DLW-CHAIN-v1"
+  }
 }
